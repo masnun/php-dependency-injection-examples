@@ -1,0 +1,5 @@
+{
+    "require": {
+        "pimple/pimple": "2.1.*@dev"
+    }
+}
